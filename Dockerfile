@@ -16,14 +16,6 @@
 # EXPOSE 8080  
 # CMD ["java","-jar","/usr/app/demo-0.0.1-SNAPSHOT.jar"]  
 
-1
-2
-3
-4
-5
-6
-7
-8
 
 FROM ubuntu:latest
 MAINTAINER NAME EMAIL
