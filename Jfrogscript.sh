@@ -1,4 +1,6 @@
 
+set -xe
+apt-get update -y > /dev/null
 curl -fL https://install-cli.jfrog.io | sh
 jf -v
 cat > jfrog-cli.config.v6 << EOF
