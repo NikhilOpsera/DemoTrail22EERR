@@ -14,4 +14,4 @@ EOF
 # mv jfrog-cli.conf.v6 configJfrog.jfrog
 
 # jf scan --format --spec="./"
-jf aud
+# jf aud
