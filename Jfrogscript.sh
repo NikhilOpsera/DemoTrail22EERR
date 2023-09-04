@@ -11,4 +11,4 @@ EOF
 # mkdir -p configJfrog.jfrog
 # mv jfrog-cli.conf.v6 configJfrog.jfrog
 
-jf scan --format ./
+jf scan --format --spec="./"
