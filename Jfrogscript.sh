@@ -10,5 +10,5 @@ cat > jfrog-cli.config.v6 << EOF
 EOF
 mkdir -p configJfrog.jfrog
 mv jfrog-cli.conf.v6 configJfrog.jfrog
-ls -ltra configJfrog.jfrog
+
 jf scan
